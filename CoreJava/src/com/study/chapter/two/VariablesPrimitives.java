@@ -1,4 +1,4 @@
-package com.study.chaptertwo;
+package com.study.chapter.two;
 
 public class VariablesPrimitives {
     public static void main(String[] args) {

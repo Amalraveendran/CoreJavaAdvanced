@@ -1,4 +1,4 @@
-package com.study.chapterone;
+package com.study.chapter.one;
 
 public class ChapterOneHandsOn {
     public static void main(String[] args){
